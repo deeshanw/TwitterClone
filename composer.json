@@ -1,0 +1,13 @@
+{
+    "name": "vendor/php-project1",
+    "description": "Description of project PhpProject1.",
+    "authors": [
+        {
+            "name": "Deeshan Wassan",
+            "email": "dw556@drexel.edu"
+        }
+    ],
+    "require": {
+        "abraham/twitteroauth": "0.6.2"
+    }
+}
