@@ -9,4 +9,4 @@ Additionally, you can set up a local mysql db and have the program query a keywo
 
 To do so, edit the MYSQL_USER and MYSQL_PASS fields in the database class. 
 
-You can also change the query and execution time here. 
+You can also change the query and execution time here. Run database_test.php to start storing tweets. 
