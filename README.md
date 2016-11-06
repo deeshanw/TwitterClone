@@ -6,7 +6,7 @@ Twitter API implementation with a decent UI. Has the ability to retrieve User, M
 
 Edit twitter_search/main.php and replace placeholders with API keys to get started. 
 
-You must have xampp installed. Clone the repository into your htdocs directory and open localhost/twitter_search/main.php in a web browser. 
+You must have xampp/software of your choice installed. Clone the repository into your htdocs directory and open localhost/twitter_search/main.php in a web browser. 
 
 Additionally, you can set up a local mysql db and have the program query a keyword and store tweets that contain it in real time. 
 
