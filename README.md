@@ -1,4 +1,7 @@
 # TwitterClone
+
+Album of images: https://imgur.com/a/SLFbH
+
 Twitter API implementation with a decent UI. Has the ability to retrieve User, Mentions and Home timelines, look up users and favorite tweets by ID.
 
 Edit twitter_search/main.php and replace placeholders with API keys to get started. 
